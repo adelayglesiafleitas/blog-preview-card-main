@@ -95,3 +95,7 @@ body {
 .container__avatar__img {
   width: 34px;
 }
+.container__p{
+  font-size: 1.6em;
+  font-weight: 800;
+}
